@@ -38,6 +38,7 @@
             MedicalDoctor: [ 4, 4 ]
             MedicalIntern: [ 3, 3 ]
             Paramedic: [ 1, 2 ]
+            Brigmedic: [ 1, 1 ]
             #science
             ResearchDirector: [ 1, 1 ]
             Scientist: [ 4, 4 ]
